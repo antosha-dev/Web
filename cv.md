@@ -2,15 +2,10 @@
 ==============
 
 #### Младший разработчик на .Net ☺
-
-* О себе
-* Ключевые навыки
-* Навыки и опыт
-* Дополнительно
   
 Контакты:
 
-+375295464382 | antonio266727@gmail.com **| Github** https://github.com/antosha-dev **| Telegram** @antosha\_dev **| LinkedIn** https://www.linkedin.com/in/antosha-dev/
++375295464382 | antonio266727@gmail.com **| Github** https://github.com/antosha-dev **| Telegram** [@antosha\_dev](https://t.me/antosha_dev) **| LinkedIn** https://www.linkedin.com/in/antosha-dev/
 
 О себе:
 -------
@@ -37,4 +32,4 @@
 
 ### Дополнительно:
 
-*   Английский С1.
+*   [Английский С1.](https://cert.efset.org/ru/y23fdM)
