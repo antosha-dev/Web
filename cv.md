@@ -3,9 +3,7 @@
 
 #### Младший разработчик на .Net ☺
   
-Контакты:
-
-+375295464382 | antonio266727@gmail.com **| Github** https://github.com/antosha-dev **| Telegram** [@antosha\_dev](https://t.me/antosha_dev) **| LinkedIn** https://www.linkedin.com/in/antosha-dev/
+Контакты: +375295464382 \| antonio266727@gmail.com \| **Github** https://github.com/antosha-dev \| **Telegram** [@antosha\_dev](https://t.me/antosha_dev) \| **LinkedIn** https://www.linkedin.com/in/antosha-dev/
 
 О себе:
 -------
